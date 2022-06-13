@@ -9,25 +9,25 @@ module.exports = [
         type: "input",
         message: "What is your Github username?",
         name: "githubUsername",
-        //default: "cokamuro",
+        default: "cokamuro",
     },
     {
         type: "input",
         message: "What is your email address?",
         name: "emailAddress",
-        //default: "cokamuro@gmail.com",
+        default: "cokamuro@gmail.com",
     },
     {
         type: "input",
         message: "What is the project title?",
         name: "projectTitle",
-        //default: "Professional README Generator",
+        default: "Professional README Generator",
     },
     {
         type: "input",
         message: "What is the project description?",
         name: "projectDescription",
-        //default: "The program prompts the user for a number of inputs, and then it generates a high-quality README file, including well-formatted markdown, and working links."
+        default: "The program prompts the user for a number of inputs, and then it generates a high-quality README file, including well-formatted markdown, and working links."
     },
     {
         type: "input",

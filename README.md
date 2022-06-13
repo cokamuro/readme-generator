@@ -1,6 +1,6 @@
 # 09 Node.js Challenge: Professional README Generator
 
-[Walkthrough Video](https://drive.google.com/file/d/116yxeoPR-H_mjcl3_HhnE2rvv5GKHYrY/view)
+[Walkthrough Video](https://drive.google.com/file/d/1bY-ivtuS5TlcJ7VX8FTd4olityUgKYsJ/view)
 
 ## Table of Contents
 - [Description](#description)
@@ -21,4 +21,4 @@ The program requires NPM installation of the inquirer and fs modules, and requir
 ![Image of launch and user prompts](prompts.png)
 ![Image of generated README](completed-readme.png)
 
-[Walkthrough Video (in case you didn't see it at the top of this document)](https://drive.google.com/file/d/116yxeoPR-H_mjcl3_HhnE2rvv5GKHYrY/view)
+[Walkthrough Video (in case you didn't see it at the top of this document)](https://drive.google.com/file/d/1bY-ivtuS5TlcJ7VX8FTd4olityUgKYsJ/view)

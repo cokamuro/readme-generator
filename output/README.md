@@ -1,8 +1,8 @@
-# Professional README Generator
+# Sample Project Title
 
 ## Description
 
-The program prompts the user for a number of inputs, and then it generates a high-quality README file, including well-formatted markdown, and working links.
+This is where a detailed description of the project would go!
 
 ## Table of Contents
 
@@ -23,11 +23,11 @@ There is no usage information for this project
 
 ## License
 
-This project is licensed under GNU GPL v2.0.  Click the badge below to see the terms of this license.
+This project is licensed under Creative Commons Zero v1.0 Universal.  Click the badge below to see the terms of this license.
 
 ## Badges
 
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## How to Contribute
 
